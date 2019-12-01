@@ -3,4 +3,4 @@ const express = require('express');
 const app = express();
 const PORT = 3000;
 
-app.listen(PORT, () => console.log(`SERVER LISTENING TO ${PORT}`));
+app.listen(PORT, () => console.log(`LISTENING TO ${PORT}`));
